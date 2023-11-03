@@ -1,1 +1,1 @@
-#This is storage of my Baeckjoon solution
+#This is code repository of my Baeckjoon solution!
