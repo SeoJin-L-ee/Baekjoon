@@ -1,1 +1,1 @@
-#This is code repository of my Baeckjoon solution!
+# My Baeckjoon solution code repository 
