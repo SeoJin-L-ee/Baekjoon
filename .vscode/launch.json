@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/leest/Documents/GitHub/Baeckjoon",
-      "program": "c:/Users/leest/Documents/GitHub/Baeckjoon/build/Debug/outDebug",
+      "cwd": "c:/GitHub/Baeckjoon",
+      "program": "c:/GitHub/Baeckjoon/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
